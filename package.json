@@ -1,0 +1,30 @@
+{
+  "name": "@truongdinhthien/thien-cli",
+  "version": "1.0.0",
+  "description": "Powerful cli made by thien",
+  "main": "index.js",
+  "bin": {
+    "wifi": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongdinhthien/thien-cli.git"
+  },
+  "keywords": [
+    "thien",
+    "wifi",
+    "aegona"
+  ],
+  "author": "thien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongdinhthien/thien-cli/issues"
+  },
+  "homepage": "https://github.com/truongdinhthien/thien-cli#readme",
+  "dependencies": {
+    "execa": "^5.1.1"
+  }
+}

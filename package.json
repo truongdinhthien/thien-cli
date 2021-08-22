@@ -1,5 +1,5 @@
 {
-  "name": "@truongdinhthien/thien-cli",
+  "name": "@truongdinhthien/wifi-cli",
   "version": "1.0.0",
   "description": "Powerful cli made by thien",
   "main": "index.js",
